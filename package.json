@@ -1,0 +1,11 @@
+{
+  "name": "flexbox-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server"
+  },
+  "author": "",
+  "license": "ISC"
+}
